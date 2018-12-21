@@ -13,6 +13,8 @@
 * Highly proficient in the use of T-SQL for developing complex stored procedures, triggers, tables, user functions, user profiles, relational database models and data integrity, SQL joins and query writing
 * Created SSIS package to extract data from heterogeneous sources and loading staging and data warehouse
 * Worked in waterfall/Agile software development teams
+* Experienced in software development, including object-oriented technologies, user-interface design, development process.
+* Evaluated a wide variety of computer and software systems and have specified architectures and solutions for real-world problems.
 * Ability and willingness to learn new technology and deliver results in a timely manner
 
 **Area of Expertise Include:**
@@ -24,8 +26,8 @@
 * Database Design
 
 **PROFESSIONAL WORK EXPERIENCE**
-**MS SQL Developer, IPM, Seattle WA, January 2017 - to date**
 
+**MS SQL Developer, IPM, Seattle WA, January 2017 - to date**
 **Roles and Responsibilities:**
 * Created complex Stored Procedures, Triggers, Functions, Indexes, Tables, Views and other T-SQL code and SQL joins for applications.
 * Created Ad-Hoc Reports, Summary Reports, Sub Reports, and Drill-down Reports using SSRS.
@@ -36,7 +38,7 @@
 
 **Technologies and tools used:** MS SQL Server 2012, SQL Server Integration Services 2012, SQL Server Reporting Services, Visual Studio 2012/13, TFS 2012/13, C# Analysis Services, Data Mining tools.
  
-**ITSC, Addis Ababa, Ethiopia, MS SQL Developer, February 2013 - December 2016**
+**ITSC, Addis Ababa, Ethiopia, MS SQL Developer, October 2013 - December 2016**
 **Roles and Responsibilities:**
 * Expertly performed requirement gathering and analysis, analyzed and documented the system specifications, business requirements.
 * Designed, developed, modified and enhanced the database structures and database objects.
@@ -45,6 +47,17 @@
 * Conducted performance tuning using SQL Profiler and Database Engine Tuning Wizards.
 * Helped test team to validate data between source systems and destination
 * Created ETL packages to validate, extract, transform and load data to data warehouse databases using SQL Server Integration Services (SSIS) to overcome transformation constraints.
+
+**Rama Construction, Arba Minch, Ethiopia,System Developer, August 2012 - September 2013**
+**Roles and Responsibilities:**
+* Analyzed business and system requirements.
+* Interacted with the business community and the end users to gather requirements and developed user requirement specifications.
+* Identified and resolved complex technical issues with the development team.
+* Designed, implemented and maintained customer-facing systems.
+* Documented every step in the System Developing process for future reference and for the improvement of the software in the development process.
+* Made updates and re-designs to the System based on the staff members request. 
+
+ **Technologies and tools used:** C#, HTML, CSS, XML and Windows 7
 
  **Educational background**
 * BSc in Computer Science, Arbaminch University, Ethiopia, 2012
