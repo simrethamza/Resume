@@ -1,7 +1,7 @@
-**Simret Hamza**
-**Everett, WA**
-**PHONE: (206)-724-6172**
-**EMAIL: [simret.hamza@gmail.com](mailto:simret.hamza@gmail.com)**
+### Simret Hamza
+### Everett, WA
+### PHONE: (206)-724-6172
+### EMAIL: [simret.hamza@gmail.com](mailto:simret.hamza@gmail.com)
 
 ### PROFESSIONAL SUMMARY
 * Over 5 years of experience in Database development, Data analysis and Business intelligence on SQL server 2016/2014/2008R2 environment.
