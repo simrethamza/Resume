@@ -36,7 +36,7 @@
 * Created SSIS Packages to export and import data from CSV files, Text files and Excel Spreadsheets.
 * Designed an OLAP system with the help of ERWIN to visualize data structure.
 
-**Technologies and tools used:** MS SQL Server 2012, SQL Server Integration Services 2012, SQL Server Reporting Services, Visual Studio 2012/13, TFS 2012/13, C# Analysis Services, Data Mining tools.
+**Technologies and tools used:** MS SQL Server 2012, SQL Server Integration Services 2012, SQL Server Reporting Services, Visual Studio 2012/13, TFS 2012/13, C#, Analysis Services, Data Mining tools.
  
 **ITSC, Addis Ababa, Ethiopia, MS SQL Developer, October 2013 - December 2016**
 **Roles and Responsibilities:**
