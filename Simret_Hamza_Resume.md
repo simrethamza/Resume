@@ -1,5 +1,5 @@
 ### Simret Hamza
-### Everett, WA
+### Seattle, WA
 ### PHONE: (206)-724-6172
 ### EMAIL: [simret.hamza@gmail.com](mailto:simret.hamza@gmail.com)
 
